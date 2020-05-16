@@ -1,0 +1,37 @@
+{
+  "vengadores": [
+    {
+      "nombres": "Peter",
+      "apellidos": "Parker",
+      "heroe": "SpiderMan",
+      "poder": "Aracnidos",
+      "trabajo": "Limpiador de Ventanas",
+      "telefono": "32354323",
+      "email": "spiderman@vengadores.com"
+    }
+  ],
+  "gemas": [
+    {
+      "nombre": "gema",
+      "poder": "poder",
+      "portador": "portador",
+      "ubicacion": "tierra"
+    }
+  ],
+  "villanos": [
+    {
+      "nombre": "Thanos",
+      "poder": "Eliminar medio Universo",
+      "origen": "Titan",
+      "derrotado": "Iron-man"
+    }
+  ],
+  "contacto": [
+    {
+      "heroe": "Spiderman",
+      "descripcion": "Necesito que limpies las ventanas de mi edificio",
+      "telefono": "56357290",
+      "Email": "force@gmail.com"
+    }
+  ]
+}
